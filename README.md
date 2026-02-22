@@ -75,7 +75,7 @@ python Task-1-Text-Encryption.py
 python Task-2-Image-Encryption.py
 python Task-3-Password-Analyzer.py
 
-## Skills Gained
+🧠 Skills Gained
 
 Understanding of encryption fundamentals
 
