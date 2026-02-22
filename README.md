@@ -1,81 +1,81 @@
-Pinnacle Cybersecurity Internship
+# Pinnacle Cybersecurity Internship
 
-This repository contains the practical tasks completed during the Pinnacle Cybersecurity Internship.
+This repository contains the practical tasks completed during the **Pinnacle Cybersecurity Internship**.  
 The internship focused on implementing real-world cybersecurity concepts using Python-based security tools and foundational encryption techniques.
 
-📌 Internship Overview
+---
 
-Organization: Pinnacle
+## 📌 Internship Overview
 
-Role: Cybersecurity Intern
+- **Organization:** Pinnacle  
+- **Role:** Cybersecurity Intern  
+- **Focus Area:** Cryptography & Security Tool Development  
+- **Mode:** Hands-on practical implementation  
 
-Focus Area: Cryptography & Security Tool Development
+---
 
-Mode: Hands-on practical implementation
+## 🛠 Tasks Completed
 
-🛠 Tasks Completed
-🔐 Task 1 – Text Encryption Tool
+### 🔐 Task 1 – Text Encryption Tool
 
 A Python-based program that performs text encryption and decryption using basic symmetric logic.
 
-Concepts Covered:
+**Concepts Covered:**
 
-Symmetric encryption fundamentals
+- Symmetric encryption fundamentals  
+- String manipulation  
+- File handling  
+- Secure text transformation  
 
-String manipulation
+---
 
-File handling
-
-Secure text transformation
-
-🖼 Task 2 – Image Encryption Tool
+### 🖼 Task 2 – Image Encryption Tool
 
 A Python program designed to encrypt and decrypt image files using byte-level data manipulation.
 
-Concepts Covered:
+**Concepts Covered:**
 
-Binary file handling
+- Binary file handling  
+- Byte-level manipulation  
+- Image data transformation  
+- Basic cryptographic logic  
 
-Byte-level manipulation
+---
 
-Image data transformation
-
-Basic cryptographic logic
-
-🔎 Task 3 – Password Analyzer
+### 🔎 Task 3 – Password Analyzer
 
 A security-focused password strength analyzer built using Python to evaluate password robustness.
 
-Concepts Covered:
+**Concepts Covered:**
 
-Password strength validation
+- Password strength validation  
+- Security best practices  
+- Pattern detection  
+- Secure input handling  
 
-Security best practices
+---
 
-Pattern detection
+## 💻 Technologies Used
 
-Secure input handling
+- Python 3  
+- File Handling (Text & Binary)  
+- Basic Cryptography Concepts  
+- Secure Coding Practices  
 
-💻 Technologies Used
+---
 
-Python 3
-
-File Handling (Text & Binary)
-
-Basic Cryptography Concepts
-
-Secure Coding Practices
-
-🚀 How to Run the Programs
+## 🚀 How to Run the Programs
 
 Make sure Python 3 is installed on your system.
 
 Run any task using:
 
+```bash
 python Task-1-Text-Encryption.py
 python Task-2-Image-Encryption.py
 python Task-3-Password-Analyzer.py
-🧠 Skills Gained
+
+## Skills Gained
 
 Understanding of encryption fundamentals
 
