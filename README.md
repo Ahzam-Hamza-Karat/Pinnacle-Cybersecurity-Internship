@@ -98,4 +98,4 @@ Pinnacle-Cybersecurity-Internship/
 🎯 Purpose
 
 This repository is maintained for educational and portfolio purposes.
-It showcases practical cybersecurity implementation skills and demonstrates foundational knowledge in encryption and secure coding practices.
+It showcases practical cybersecurity implementation skills and demonstrates foundational knowledge in encryption, secure coding practices, and applied security tool development.
